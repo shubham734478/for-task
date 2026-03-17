@@ -1,1 +1,1 @@
-sid base taks 
+sid base taks
