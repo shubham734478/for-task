@@ -1,1 +1,1 @@
-sid base taks num
+sid base taks nu
